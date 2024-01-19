@@ -1,0 +1,26 @@
+[
+    {
+    "id": 1,
+    "name": "189 K2 Shredditor 112",
+    "price": 50.00,
+    "imgUrl": "/imgs/skis.jpg"
+},
+{
+    "id": 2,
+    "name": "6'1 Bonzer Surfboard",
+    "price": 350.00,
+    "imgUrl": "/imgs/surfboard.jpg"
+},
+{
+    "id": 3,
+    "name": "Saucony PowerRun Nylon Size 11.0",
+    "price": 80.00,
+    "imgUrl": "/imgs/shoes.jpg"
+},
+{
+    "id": 4,
+    "name": "O'Neill Booties Size 9 5mm",
+    "price": 30.00,
+    "imgUrl": "/imgs/bootie2.jpg"
+}
+]   
